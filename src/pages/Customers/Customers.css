@@ -1,0 +1,15 @@
+.top-right-button {
+    position: absolute;
+    top: 5%;
+    right: 41%;
+    background-color: blue; /* Change to green, #0000FF, etc., as needed */
+    color: white; /* This provides good contrast for readability */
+    border: none; /* Optional: removes the default border */
+    padding: 10px 20px; /* Gives the button a nice padding */
+    border-radius: 5px; /* Optional: rounds the corners of the button */
+    cursor: pointer; /* Changes the mouse cursor to a pointer on hover */
+}
+
+.top-right-button:hover {
+    background-color: darkblue; /* Change to a darker blue on hover, or use darkgreen etc. */
+}
